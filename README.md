@@ -1,10 +1,6 @@
 # BouncingBalls
 This is the computer graphic project I have done during University using WebGL.
 
-Background: 
-----------
-This project is based on the knowledge we learned from assignment 2 and assignment 3 with additional functions. 
-
 Goal:
 -----------------
 The goal of this project is to simulate the movement of water molecules in different temperature. It allows user to see the movement of the water molecules’ movement in different temperature in different angle.
